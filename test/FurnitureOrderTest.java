@@ -32,11 +32,11 @@ public class FurnitureOrderTest
 
     }
 
-    public static void main(String[] args)
-    {
-        FurnitureOrderTest test = new FurnitureOrderTest();
-        test.testGetTypeCost();
-    }
+//     public static void main(String[] args)
+//     {
+//         FurnitureOrderTest test = new FurnitureOrderTest();
+//         test.testGetTypeCost();
+//     }
 
     @Test
     public void testAddToOrder()
